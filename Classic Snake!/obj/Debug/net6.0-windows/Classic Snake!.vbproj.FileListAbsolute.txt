@@ -1,0 +1,18 @@
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic Snake!.vbproj.AssemblyReference.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic_Snake_.frmSnake.resources
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic_Snake_.Resources.resources
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic Snake!.vbproj.GenerateResource.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic Snake!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic Snake!.AssemblyInfoInputs.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic Snake!.AssemblyInfo.vb
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic Snake!.vbproj.CoreCompileInputs.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\bin\Debug\net6.0-windows\Classic Snake!.exe
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\bin\Debug\net6.0-windows\Classic Snake!.deps.json
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\bin\Debug\net6.0-windows\Classic Snake!.runtimeconfig.json
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\bin\Debug\net6.0-windows\Classic Snake!.dll
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\bin\Debug\net6.0-windows\Classic Snake!.pdb
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic Snake!.dll
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\refint\Classic Snake!.dll
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic Snake!.pdb
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\Classic Snake!.genruntimeconfig.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Snake!\Classic Snake!\obj\Debug\net6.0-windows\ref\Classic Snake!.dll
