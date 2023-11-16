@@ -19,3 +19,12 @@ After that, try and change some of the code.
 Maybe try change some colors, icons of game, fonts, switch the code around, etc to not make it an exact replica. 
 
 Thanks
+
+# Common error!
+"Form1.resx being in the Internet or Restricted zone"
+
+If you get this error, please follow these instructions:
+1. Open the file explorer. and navigate to project directory.
+2. Search for .resx file.
+3. Right click the resx file, open the properties and check the option 'Unblock'.
+4. Done! If you have any other resx files (it shouldn't for this project), then do the same.
